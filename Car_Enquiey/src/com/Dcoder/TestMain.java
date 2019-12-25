@@ -9,7 +9,7 @@ public class TestMain {
 	public static void main(String[] args) {
 		try (BufferedReader br = new BufferedReader(new InputStreamReader(System.in));)
 		{
-			 System.out.println("Please Enter Your Name");
+			 System.out.println("Please Enter Your Namaaaaaaaaaaae");
 			 String custName = br.readLine();
 			 System.out.println("Hello.. "+custName+" \nPlease enter your budget");
 			 double budget = Double.valueOf(br.readLine());
